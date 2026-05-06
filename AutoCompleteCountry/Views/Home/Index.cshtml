@@ -5,7 +5,7 @@
 @model CountryViewModel
 
 <div class="text-center">
-    <h1 class="display-4">Countries</h1>
+    <h1 class="display-4">Search country</h1>
 </div>
 
 <div>
@@ -21,15 +21,15 @@
     <table class="table mb-0">
         <tbody>
             <tr>
-                <th>Země</th>
+                <th>Country</th>
                 <td>@Model.Name</td>
             </tr>
             <tr>
-                <th>Kód země</th>
+                <th>Country code</th>
                 <td>@Model.CountryCode</td>
             </tr>
             <tr>
-                <th>Měna</th>
+                <th>Currency</th>
                 <td>@Model.Currency</td>
             </tr>
         </tbody>
@@ -43,6 +43,8 @@
     <script>
         $(function () {
             $("#Title").autocomplete({
+                minLength: 2,
+                delay: 250,
                 source: function (request, response) {
                     $.ajax({
                         url: '@Url.Action("Search", "Home")',
