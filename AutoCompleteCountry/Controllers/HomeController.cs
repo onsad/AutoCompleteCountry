@@ -9,21 +9,27 @@ namespace AutoCompleteCountry.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View(new CountryViewModel());
         }
 
         [HttpGet]
         public JsonResult Search(string searchedCountry)
         {
-            List<Country> country = new List<Country> { new Country { Id = 1, Name = "Czechia" } };
-            return Json(country);
+            var countries = countryService.GetCountries(searchedCountry);
+            return Json(countries);
         }
 
         [HttpGet]
         public IActionResult SearchedCountry(int countryId)
         {
-            List<Country> country = new List<Country> { new Country { Id = 1, Name = "Czechia" } };
-            return Json(country);
+            var country = countryService.GetCountryById(countryId);
+            var model = new CountryViewModel
+            {
+                Name = country.Name,
+                CountryCode = country.Code,
+                Currency = country.Currency
+            };
+            return View("Index", model);
         }
 
         public IActionResult Privacy()

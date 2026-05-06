@@ -12,13 +12,13 @@ namespace AutoCompleteCountry.Service
             connectionString = config.GetConnectionString("DBConnection") ?? throw new InvalidOperationException("Connection string 'DBConnection not found.");
         }
 
-        public List<string> GetCountries(string searchedCountry)
+        public List<Country> GetCountries(string searchedCountry)
         {
-            List<string> countries = new List<string>();
+            List<Country> countries = new List<Country>();
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
-                string query = "SELECT CountryName FROM Countries WHERE CountryName LIKE @searchedCountry + '%'";
+                string query = "SELECT CountryId, CountryName FROM Country WHERE CountryName LIKE @searchedCountry + '%'";
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@searchedCountry", searchedCountry);
@@ -26,7 +26,7 @@ namespace AutoCompleteCountry.Service
                     {
                         while (reader.Read())
                         {
-                            countries.Add(reader.GetString(0));
+                            countries.Add(new Country() { Id = reader.GetInt32(0), Name = reader.GetString(1) });
                         }
                     }
                 }
@@ -39,7 +39,7 @@ namespace AutoCompleteCountry.Service
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
-                string query = "SELECT Id, CountryName FROM Countries WHERE Id = @id";
+                string query = "SELECT CountryName, CountryCode, Currency FROM Country WHERE CountryId = @id";
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@id", id);
@@ -49,8 +49,9 @@ namespace AutoCompleteCountry.Service
                         {
                             return new Country
                             {
-                                Id = reader.GetInt32(0),
-                                Name = reader.GetString(1)
+                                Name = reader.GetString(0),
+                                Code = reader.GetString(1),
+                                Currency = reader.GetString(2)
                             };
                         }
                     }
