@@ -6,5 +6,6 @@
         public string Name { get; set; } = string.Empty;
         public string Code { get; set; } = string.Empty;
         public string Currency { get; set; } = string.Empty;
+        public string CapitalCity { get; set; } = string.Empty;
     }
 }

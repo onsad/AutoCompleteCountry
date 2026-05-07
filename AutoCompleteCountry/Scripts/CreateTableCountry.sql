@@ -8,6 +8,7 @@ BEGIN
           CountryName varchar(255) NOT NULL,
           CountryCode varchar(255) NOT NULL,
           Currency varchar(255),
+          CapitalCity varchar(255),
         );
 END
 GO

@@ -16,7 +16,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "AIA"
+    "cca3": "AIA",
+    "capital": [
+      "The Valley"
+    ]
   },
   {
     "name": {
@@ -35,7 +38,10 @@
         "symbol": "Q"
       }
     },
-    "cca3": "GTM"
+    "cca3": "GTM",
+    "capital": [
+      "Guatemala City"
+    ]
   },
   {
     "name": {
@@ -54,7 +60,10 @@
         "symbol": "D"
       }
     },
-    "cca3": "GMB"
+    "cca3": "GMB",
+    "capital": [
+      "Banjul"
+    ]
   },
   {
     "name": {
@@ -73,7 +82,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "MEX"
+    "cca3": "MEX",
+    "capital": [
+      "Mexico City"
+    ]
   },
   {
     "name": {
@@ -96,7 +108,10 @@
         "symbol": "MK"
       }
     },
-    "cca3": "MWI"
+    "cca3": "MWI",
+    "capital": [
+      "Lilongwe"
+    ]
   },
   {
     "name": {
@@ -115,7 +130,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "PCN"
+    "cca3": "PCN",
+    "capital": [
+      "Adamstown"
+    ]
   },
   {
     "name": {
@@ -138,7 +156,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "ARG"
+    "cca3": "ARG",
+    "capital": [
+      "Buenos Aires"
+    ]
   },
   {
     "name": {
@@ -165,7 +186,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "GUM"
+    "cca3": "GUM",
+    "capital": [
+      "Hagåtña"
+    ]
   },
   {
     "name": {
@@ -184,7 +208,10 @@
         "symbol": "лв"
       }
     },
-    "cca3": "BGR"
+    "cca3": "BGR",
+    "capital": [
+      "Sofia"
+    ]
   },
   {
     "name": {
@@ -203,7 +230,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "DMA"
+    "cca3": "DMA",
+    "capital": [
+      "Roseau"
+    ]
   },
   {
     "name": {
@@ -222,7 +252,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "GBR"
+    "cca3": "GBR",
+    "capital": [
+      "London"
+    ]
   },
   {
     "name": {
@@ -241,7 +274,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "FSM"
+    "cca3": "FSM",
+    "capital": [
+      "Palikir"
+    ]
   },
   {
     "name": {
@@ -268,7 +304,11 @@
         "symbol": "JD"
       }
     },
-    "cca3": "PSE"
+    "cca3": "PSE",
+    "capital": [
+      "Ramallah",
+      "Jerusalem"
+    ]
   },
   {
     "name": {
@@ -295,7 +335,10 @@
         "symbol": "ƒ"
       }
     },
-    "cca3": "CUW"
+    "cca3": "CUW",
+    "capital": [
+      "Willemstad"
+    ]
   },
   {
     "name": {
@@ -322,7 +365,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "RWA"
+    "cca3": "RWA",
+    "capital": [
+      "Kigali"
+    ]
   },
   {
     "name": {
@@ -345,7 +391,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "HKG"
+    "cca3": "HKG",
+    "capital": [
+      "City of Victoria"
+    ]
   },
   {
     "name": {
@@ -368,7 +417,10 @@
         "symbol": "so'm"
       }
     },
-    "cca3": "UZB"
+    "cca3": "UZB",
+    "capital": [
+      "Tashkent"
+    ]
   },
   {
     "name": {
@@ -387,7 +439,10 @@
         "symbol": "¥"
       }
     },
-    "cca3": "CHN"
+    "cca3": "CHN",
+    "capital": [
+      "Beijing"
+    ]
   },
   {
     "name": {
@@ -410,7 +465,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "CYP"
+    "cca3": "CYP",
+    "capital": [
+      "Nicosia"
+    ]
   },
   {
     "name": {
@@ -433,7 +491,10 @@
         "symbol": "ƒ"
       }
     },
-    "cca3": "ABW"
+    "cca3": "ABW",
+    "capital": [
+      "Oranjestad"
+    ]
   },
   {
     "name": {
@@ -452,7 +513,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "REU"
+    "cca3": "REU",
+    "capital": [
+      "Saint-Denis"
+    ]
   },
   {
     "name": {
@@ -471,7 +535,10 @@
         "symbol": "₩"
       }
     },
-    "cca3": "KOR"
+    "cca3": "KOR",
+    "capital": [
+      "Seoul"
+    ]
   },
   {
     "name": {
@@ -484,7 +551,8 @@
     "currencies": {
 
     },
-    "cca3": "ATA"
+    "cca3": "ATA",
+    "capital": []
   },
   {
     "name": {
@@ -507,7 +575,10 @@
         "symbol": "Sh"
       }
     },
-    "cca3": "SOM"
+    "cca3": "SOM",
+    "capital": [
+      "Mogadishu"
+    ]
   },
   {
     "name": {
@@ -530,7 +601,10 @@
         "symbol": "ل.ل"
       }
     },
-    "cca3": "LBN"
+    "cca3": "LBN",
+    "capital": [
+      "Beirut"
+    ]
   },
   {
     "name": {
@@ -549,7 +623,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "GIN"
+    "cca3": "GIN",
+    "capital": [
+      "Conakry"
+    ]
   },
   {
     "name": {
@@ -572,7 +649,10 @@
         "symbol": "ЅМ"
       }
     },
-    "cca3": "TJK"
+    "cca3": "TJK",
+    "capital": [
+      "Dushanbe"
+    ]
   },
   {
     "name": {
@@ -595,7 +675,10 @@
         "symbol": "RM"
       }
     },
-    "cca3": "MYS"
+    "cca3": "MYS",
+    "capital": [
+      "Kuala Lumpur"
+    ]
   },
   {
     "name": {
@@ -614,7 +697,10 @@
         "symbol": "₩"
       }
     },
-    "cca3": "PRK"
+    "cca3": "PRK",
+    "capital": [
+      "Pyongyang"
+    ]
   },
   {
     "name": {
@@ -633,7 +719,10 @@
         "symbol": "Le"
       }
     },
-    "cca3": "SLE"
+    "cca3": "SLE",
+    "capital": [
+      "Freetown"
+    ]
   },
   {
     "name": {
@@ -652,7 +741,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "BEN"
+    "cca3": "BEN",
+    "capital": [
+      "Porto-Novo"
+    ]
   },
   {
     "name": {
@@ -671,7 +763,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "ITA"
+    "cca3": "ITA",
+    "capital": [
+      "Rome"
+    ]
   },
   {
     "name": {
@@ -690,7 +785,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "TTO"
+    "cca3": "TTO",
+    "capital": [
+      "Port of Spain"
+    ]
   },
   {
     "name": {
@@ -709,7 +807,10 @@
         "symbol": "ر.س"
       }
     },
-    "cca3": "SAU"
+    "cca3": "SAU",
+    "capital": [
+      "Riyadh"
+    ]
   },
   {
     "name": {
@@ -728,7 +829,10 @@
         "symbol": "₡"
       }
     },
-    "cca3": "CRI"
+    "cca3": "CRI",
+    "capital": [
+      "San José"
+    ]
   },
   {
     "name": {
@@ -747,7 +851,10 @@
         "symbol": "дин."
       }
     },
-    "cca3": "SRB"
+    "cca3": "SRB",
+    "capital": [
+      "Belgrade"
+    ]
   },
   {
     "name": {
@@ -774,7 +881,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "TKL"
+    "cca3": "TKL",
+    "capital": [
+      "Fakaofo"
+    ]
   },
   {
     "name": {
@@ -793,7 +903,10 @@
         "symbol": "₮"
       }
     },
-    "cca3": "MNG"
+    "cca3": "MNG",
+    "capital": [
+      "Ulan Bator"
+    ]
   },
   {
     "name": {
@@ -816,7 +929,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "BRN"
+    "cca3": "BRN",
+    "capital": [
+      "Bandar Seri Begawan"
+    ]
   },
   {
     "name": {
@@ -835,7 +951,10 @@
         "symbol": "Ft"
       }
     },
-    "cca3": "HUN"
+    "cca3": "HUN",
+    "capital": [
+      "Budapest"
+    ]
   },
   {
     "name": {
@@ -854,7 +973,10 @@
         "symbol": "MT"
       }
     },
-    "cca3": "MOZ"
+    "cca3": "MOZ",
+    "capital": [
+      "Maputo"
+    ]
   },
   {
     "name": {
@@ -881,7 +1003,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "KIR"
+    "cca3": "KIR",
+    "capital": [
+      "South Tarawa"
+    ]
   },
   {
     "name": {
@@ -904,7 +1029,10 @@
         "symbol": "G"
       }
     },
-    "cca3": "HTI"
+    "cca3": "HTI",
+    "capital": [
+      "Port-au-Prince"
+    ]
   },
   {
     "name": {
@@ -927,7 +1055,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "KHM"
+    "cca3": "KHM",
+    "capital": [
+      "Phnom Penh"
+    ]
   },
   {
     "name": {
@@ -946,7 +1077,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "EGY"
+    "cca3": "EGY",
+    "capital": [
+      "Cairo"
+    ]
   },
   {
     "name": {
@@ -969,7 +1103,10 @@
         "symbol": "m"
       }
     },
-    "cca3": "TKM"
+    "cca3": "TKM",
+    "capital": [
+      "Ashgabat"
+    ]
   },
   {
     "name": {
@@ -988,7 +1125,10 @@
         "symbol": "ر.ع."
       }
     },
-    "cca3": "OMN"
+    "cca3": "OMN",
+    "capital": [
+      "Muscat"
+    ]
   },
   {
     "name": {
@@ -1011,7 +1151,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "JAM"
+    "cca3": "JAM",
+    "capital": [
+      "Kingston"
+    ]
   },
   {
     "name": {
@@ -1030,7 +1173,10 @@
         "symbol": "₼"
       }
     },
-    "cca3": "AZE"
+    "cca3": "AZE",
+    "capital": [
+      "Baku"
+    ]
   },
   {
     "name": {
@@ -1049,7 +1195,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "SVK"
+    "cca3": "SVK",
+    "capital": [
+      "Bratislava"
+    ]
   },
   {
     "name": {
@@ -1072,7 +1221,10 @@
         "symbol": "Br"
       }
     },
-    "cca3": "BLR"
+    "cca3": "BLR",
+    "capital": [
+      "Minsk"
+    ]
   },
   {
     "name": {
@@ -1091,7 +1243,10 @@
         "symbol": "₫"
       }
     },
-    "cca3": "VNM"
+    "cca3": "VNM",
+    "capital": [
+      "Hanoi"
+    ]
   },
   {
     "name": {
@@ -1110,7 +1265,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "VIR"
+    "cca3": "VIR",
+    "capital": [
+      "Charlotte Amalie"
+    ]
   },
   {
     "name": {
@@ -1129,7 +1287,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "GIB"
+    "cca3": "GIB",
+    "capital": [
+      "Gibraltar"
+    ]
   },
   {
     "name": {
@@ -1156,7 +1317,10 @@
         "symbol": "ƒ"
       }
     },
-    "cca3": "SXM"
+    "cca3": "SXM",
+    "capital": [
+      "Philipsburg"
+    ]
   },
   {
     "name": {
@@ -1175,7 +1339,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "ALA"
+    "cca3": "ALA",
+    "capital": [
+      "Mariehamn"
+    ]
   },
   {
     "name": {
@@ -1194,7 +1361,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "SYR"
+    "cca3": "SYR",
+    "capital": [
+      "Damascus"
+    ]
   },
   {
     "name": {
@@ -1213,7 +1383,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "MTQ"
+    "cca3": "MTQ",
+    "capital": [
+      "Fort-de-France"
+    ]
   },
   {
     "name": {
@@ -1232,7 +1405,10 @@
         "symbol": "kr."
       }
     },
-    "cca3": "GRL"
+    "cca3": "GRL",
+    "capital": [
+      "Nuuk"
+    ]
   },
   {
     "name": {
@@ -1251,7 +1427,10 @@
         "symbol": "L"
       }
     },
-    "cca3": "HND"
+    "cca3": "HND",
+    "capital": [
+      "Tegucigalpa"
+    ]
   },
   {
     "name": {
@@ -1270,7 +1449,10 @@
         "symbol": "د.ت"
       }
     },
-    "cca3": "TUN"
+    "cca3": "TUN",
+    "capital": [
+      "Tunis"
+    ]
   },
   {
     "name": {
@@ -1297,7 +1479,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "COM"
+    "cca3": "COM",
+    "capital": [
+      "Moroni"
+    ]
   },
   {
     "name": {
@@ -1316,7 +1501,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "SVN"
+    "cca3": "SVN",
+    "capital": [
+      "Ljubljana"
+    ]
   },
   {
     "name": {
@@ -1347,7 +1535,10 @@
         "symbol": "Fr."
       }
     },
-    "cca3": "CHE"
+    "cca3": "CHE",
+    "capital": [
+      "Bern"
+    ]
   },
   {
     "name": {
@@ -1378,7 +1569,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "GGY"
+    "cca3": "GGY",
+    "capital": [
+      "St. Peter Port"
+    ]
   },
   {
     "name": {
@@ -1397,7 +1591,10 @@
         "symbol": "Ks"
       }
     },
-    "cca3": "MMR"
+    "cca3": "MMR",
+    "capital": [
+      "Naypyidaw"
+    ]
   },
   {
     "name": {
@@ -1420,7 +1617,10 @@
         "symbol": "₲"
       }
     },
-    "cca3": "PRY"
+    "cca3": "PRY",
+    "capital": [
+      "Asunción"
+    ]
   },
   {
     "name": {
@@ -1443,7 +1643,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "BES"
+    "cca3": "BES",
+    "capital": [
+      "Kralendijk"
+    ]
   },
   {
     "name": {
@@ -1462,7 +1665,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "BRB"
+    "cca3": "BRB",
+    "capital": [
+      "Bridgetown"
+    ]
   },
   {
     "name": {
@@ -1485,7 +1691,8 @@
         "symbol": "P"
       }
     },
-    "cca3": "MAC"
+    "cca3": "MAC",
+    "capital": []
   },
   {
     "name": {
@@ -1504,7 +1711,10 @@
         "symbol": "د.ا"
       }
     },
-    "cca3": "JOR"
+    "cca3": "JOR",
+    "capital": [
+      "Amman"
+    ]
   },
   {
     "name": {
@@ -1523,7 +1733,10 @@
         "symbol": "₭"
       }
     },
-    "cca3": "LAO"
+    "cca3": "LAO",
+    "capital": [
+      "Vientiane"
+    ]
   },
   {
     "name": {
@@ -1542,7 +1755,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "TGO"
+    "cca3": "TGO",
+    "capital": [
+      "Lomé"
+    ]
   },
   {
     "name": {
@@ -1565,7 +1781,10 @@
         "symbol": "د.م."
       }
     },
-    "cca3": "MAR"
+    "cca3": "MAR",
+    "capital": [
+      "Rabat"
+    ]
   },
   {
     "name": {
@@ -1588,7 +1807,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "PRI"
+    "cca3": "PRI",
+    "capital": [
+      "San Juan"
+    ]
   },
   {
     "name": {
@@ -1607,7 +1829,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "GUF"
+    "cca3": "GUF",
+    "capital": [
+      "Cayenne"
+    ]
   },
   {
     "name": {
@@ -1626,7 +1851,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "SPM"
+    "cca3": "SPM",
+    "capital": [
+      "Saint-Pierre"
+    ]
   },
   {
     "name": {
@@ -1645,7 +1873,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "MAF"
+    "cca3": "MAF",
+    "capital": [
+      "Marigot"
+    ]
   },
   {
     "name": {
@@ -1664,7 +1895,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "EST"
+    "cca3": "EST",
+    "capital": [
+      "Tallinn"
+    ]
   },
   {
     "name": {
@@ -1683,7 +1917,10 @@
         "symbol": "Rp"
       }
     },
-    "cca3": "IDN"
+    "cca3": "IDN",
+    "capital": [
+      "Jakarta"
+    ]
   },
   {
     "name": {
@@ -1710,7 +1947,10 @@
         "symbol": "₨"
       }
     },
-    "cca3": "SYC"
+    "cca3": "SYC",
+    "capital": [
+      "Victoria"
+    ]
   },
   {
     "name": {
@@ -1729,7 +1969,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "MLI"
+    "cca3": "MLI",
+    "capital": [
+      "Bamako"
+    ]
   },
   {
     "name": {
@@ -1752,7 +1995,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "TLS"
+    "cca3": "TLS",
+    "capital": [
+      "Dili"
+    ]
   },
   {
     "name": {
@@ -1771,7 +2017,10 @@
         "symbol": "R$"
       }
     },
-    "cca3": "BRA"
+    "cca3": "BRA",
+    "capital": [
+      "Brasília"
+    ]
   },
   {
     "name": {
@@ -1790,7 +2039,10 @@
         "symbol": "₵"
       }
     },
-    "cca3": "GHA"
+    "cca3": "GHA",
+    "capital": [
+      "Accra"
+    ]
   },
   {
     "name": {
@@ -1813,7 +2065,10 @@
         "symbol": "Sh"
       }
     },
-    "cca3": "KEN"
+    "cca3": "KEN",
+    "capital": [
+      "Nairobi"
+    ]
   },
   {
     "name": {
@@ -1832,7 +2087,10 @@
         "symbol": "kr"
       }
     },
-    "cca3": "ISL"
+    "cca3": "ISL",
+    "capital": [
+      "Reykjavik"
+    ]
   },
   {
     "name": {
@@ -1855,7 +2113,10 @@
         "symbol": "Ar"
       }
     },
-    "cca3": "MDG"
+    "cca3": "MDG",
+    "capital": [
+      "Antananarivo"
+    ]
   },
   {
     "name": {
@@ -1874,7 +2135,10 @@
         "symbol": "৳"
       }
     },
-    "cca3": "BGD"
+    "cca3": "BGD",
+    "capital": [
+      "Dhaka"
+    ]
   },
   {
     "name": {
@@ -1909,7 +2173,10 @@
         "symbol": "FC"
       }
     },
-    "cca3": "COD"
+    "cca3": "COD",
+    "capital": [
+      "Kinshasa"
+    ]
   },
   {
     "name": {
@@ -1984,7 +2251,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "ZWE"
+    "cca3": "ZWE",
+    "capital": [
+      "Harare"
+    ]
   },
   {
     "name": {
@@ -2003,7 +2273,10 @@
         "symbol": "₣"
       }
     },
-    "cca3": "PYF"
+    "cca3": "PYF",
+    "capital": [
+      "Papeetē"
+    ]
   },
   {
     "name": {
@@ -2022,7 +2295,10 @@
         "symbol": "₺"
       }
     },
-    "cca3": "TUR"
+    "cca3": "TUR",
+    "capital": [
+      "Ankara"
+    ]
   },
   {
     "name": {
@@ -2041,7 +2317,10 @@
         "symbol": "Esc"
       }
     },
-    "cca3": "CPV"
+    "cca3": "CPV",
+    "capital": [
+      "Praia"
+    ]
   },
   {
     "name": {
@@ -2060,7 +2339,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "DOM"
+    "cca3": "DOM",
+    "capital": [
+      "Santo Domingo"
+    ]
   },
   {
     "name": {
@@ -2083,7 +2365,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "BHS"
+    "cca3": "BHS",
+    "capital": [
+      "Nassau"
+    ]
   },
   {
     "name": {
@@ -2102,7 +2387,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "DEU"
+    "cca3": "DEU",
+    "capital": [
+      "Berlin"
+    ]
   },
   {
     "name": {
@@ -2121,7 +2409,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "SUR"
+    "cca3": "SUR",
+    "capital": [
+      "Paramaribo"
+    ]
   },
   {
     "name": {
@@ -2144,7 +2435,10 @@
         "symbol": "T$"
       }
     },
-    "cca3": "TON"
+    "cca3": "TON",
+    "capital": [
+      "Nuku'alofa"
+    ]
   },
   {
     "name": {
@@ -2163,7 +2457,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "IOT"
+    "cca3": "IOT",
+    "capital": [
+      "Diego Garcia"
+    ]
   },
   {
     "name": {
@@ -2182,7 +2479,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "LCA"
+    "cca3": "LCA",
+    "capital": [
+      "Castries"
+    ]
   },
   {
     "name": {
@@ -2205,7 +2505,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "IRL"
+    "cca3": "IRL",
+    "capital": [
+      "Dublin"
+    ]
   },
   {
     "name": {
@@ -2228,7 +2531,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "VAT"
+    "cca3": "VAT",
+    "capital": [
+      "Vatican City"
+    ]
   },
   {
     "name": {
@@ -2247,7 +2553,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "COL"
+    "cca3": "COL",
+    "capital": [
+      "Bogotá"
+    ]
   },
   {
     "name": {
@@ -2266,7 +2575,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "PRT"
+    "cca3": "PRT",
+    "capital": [
+      "Lisbon"
+    ]
   },
   {
     "name": {
@@ -2293,7 +2605,10 @@
         "symbol": "kr"
       }
     },
-    "cca3": "FRO"
+    "cca3": "FRO",
+    "capital": [
+      "Tórshavn"
+    ]
   },
   {
     "name": {
@@ -2312,7 +2627,10 @@
         "symbol": "Db"
       }
     },
-    "cca3": "STP"
+    "cca3": "STP",
+    "capital": [
+      "São Tomé"
+    ]
   },
   {
     "name": {
@@ -2339,7 +2657,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "MNP"
+    "cca3": "MNP",
+    "capital": [
+      "Saipan"
+    ]
   },
   {
     "name": {
@@ -2370,7 +2691,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "JEY"
+    "cca3": "JEY",
+    "capital": [
+      "Saint Helier"
+    ]
   },
   {
     "name": {
@@ -2389,7 +2713,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "MYT"
+    "cca3": "MYT",
+    "capital": [
+      "Mamoudzou"
+    ]
   },
   {
     "name": {
@@ -2408,7 +2735,10 @@
         "symbol": "﷼"
       }
     },
-    "cca3": "YEM"
+    "cca3": "YEM",
+    "capital": [
+      "Sana'a"
+    ]
   },
   {
     "name": {
@@ -2427,7 +2757,10 @@
         "symbol": "₦"
       }
     },
-    "cca3": "NGA"
+    "cca3": "NGA",
+    "capital": [
+      "Abuja"
+    ]
   },
   {
     "name": {
@@ -2454,7 +2787,10 @@
         "symbol": "؋"
       }
     },
-    "cca3": "AFG"
+    "cca3": "AFG",
+    "capital": [
+      "Kabul"
+    ]
   },
   {
     "name": {
@@ -2477,7 +2813,10 @@
         "symbol": "P"
       }
     },
-    "cca3": "BWA"
+    "cca3": "BWA",
+    "capital": [
+      "Gaborone"
+    ]
   },
   {
     "name": {
@@ -2504,7 +2843,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "IMN"
+    "cca3": "IMN",
+    "capital": [
+      "Douglas"
+    ]
   },
   {
     "name": {
@@ -2523,7 +2865,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "SLV"
+    "cca3": "SLV",
+    "capital": [
+      "San Salvador"
+    ]
   },
   {
     "name": {
@@ -2546,7 +2891,10 @@
         "symbol": "Sh"
       }
     },
-    "cca3": "UGA"
+    "cca3": "UGA",
+    "capital": [
+      "Kampala"
+    ]
   },
   {
     "name": {
@@ -2565,7 +2913,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "AND"
+    "cca3": "AND",
+    "capital": [
+      "Andorra la Vella"
+    ]
   },
   {
     "name": {
@@ -2584,7 +2935,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "TCA"
+    "cca3": "TCA",
+    "capital": [
+      "Cockburn Town"
+    ]
   },
   {
     "name": {
@@ -2607,7 +2961,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "TCD"
+    "cca3": "TCD",
+    "capital": [
+      "N'Djamena"
+    ]
   },
   {
     "name": {
@@ -2630,7 +2987,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "FIN"
+    "cca3": "FIN",
+    "capital": [
+      "Helsinki"
+    ]
   },
   {
     "name": {
@@ -2649,7 +3009,10 @@
         "symbol": "₽"
       }
     },
-    "cca3": "RUS"
+    "cca3": "RUS",
+    "capital": [
+      "Moscow"
+    ]
   },
   {
     "name": {
@@ -2672,7 +3035,10 @@
         "symbol": "₸"
       }
     },
-    "cca3": "KAZ"
+    "cca3": "KAZ",
+    "capital": [
+      "Astana"
+    ]
   },
   {
     "name": {
@@ -2691,7 +3057,10 @@
         "symbol": "kr"
       }
     },
-    "cca3": "SJM"
+    "cca3": "SJM",
+    "capital": [
+      "Longyearbyen"
+    ]
   },
   {
     "name": {
@@ -2710,7 +3079,10 @@
         "symbol": "Bs.S."
       }
     },
-    "cca3": "VEN"
+    "cca3": "VEN",
+    "capital": [
+      "Caracas"
+    ]
   },
   {
     "name": {
@@ -2729,7 +3101,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "MCO"
+    "cca3": "MCO",
+    "capital": [
+      "Monaco"
+    ]
   },
   {
     "name": {
@@ -2748,7 +3123,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "SEN"
+    "cca3": "SEN",
+    "capital": [
+      "Dakar"
+    ]
   },
   {
     "name": {
@@ -2767,7 +3145,10 @@
         "symbol": "₨"
       }
     },
-    "cca3": "NPL"
+    "cca3": "NPL",
+    "capital": [
+      "Kathmandu"
+    ]
   },
   {
     "name": {
@@ -2786,7 +3167,10 @@
         "symbol": "د.إ"
       }
     },
-    "cca3": "ARE"
+    "cca3": "ARE",
+    "capital": [
+      "Abu Dhabi"
+    ]
   },
   {
     "name": {
@@ -2805,7 +3189,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "TWN"
+    "cca3": "TWN",
+    "capital": [
+      "Taipei"
+    ]
   },
   {
     "name": {
@@ -2824,7 +3211,10 @@
         "symbol": "₣"
       }
     },
-    "cca3": "NCL"
+    "cca3": "NCL",
+    "capital": [
+      "Nouméa"
+    ]
   },
   {
     "name": {
@@ -2855,7 +3245,10 @@
         "symbol": "Bs."
       }
     },
-    "cca3": "BOL"
+    "cca3": "BOL",
+    "capital": [
+      "Sucre"
+    ]
   },
   {
     "name": {
@@ -2874,7 +3267,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "CHL"
+    "cca3": "CHL",
+    "capital": [
+      "Santiago"
+    ]
   },
   {
     "name": {
@@ -2893,7 +3289,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "CIV"
+    "cca3": "CIV",
+    "capital": [
+      "Yamoussoukro"
+    ]
   },
   {
     "name": {
@@ -2912,7 +3311,10 @@
         "symbol": "ل.د"
       }
     },
-    "cca3": "LBY"
+    "cca3": "LBY",
+    "capital": [
+      "Tripoli"
+    ]
   },
   {
     "name": {
@@ -2939,7 +3341,10 @@
         "symbol": "S/ "
       }
     },
-    "cca3": "PER"
+    "cca3": "PER",
+    "capital": [
+      "Lima"
+    ]
   },
   {
     "name": {
@@ -2962,7 +3367,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "CAN"
+    "cca3": "CAN",
+    "capital": [
+      "Ottawa"
+    ]
   },
   {
     "name": {
@@ -2981,7 +3389,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "FRA"
+    "cca3": "FRA",
+    "capital": [
+      "Paris"
+    ]
   },
   {
     "name": {
@@ -3004,7 +3415,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "DJI"
+    "cca3": "DJI",
+    "capital": [
+      "Djibouti"
+    ]
   },
   {
     "name": {
@@ -3027,7 +3441,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "BDI"
+    "cca3": "BDI",
+    "capital": [
+      "Gitega"
+    ]
   },
   {
     "name": {
@@ -3050,7 +3467,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "UNK"
+    "cca3": "UNK",
+    "capital": [
+      "Pristina"
+    ]
   },
   {
     "name": {
@@ -3069,7 +3489,10 @@
         "symbol": "kr"
       }
     },
-    "cca3": "DNK"
+    "cca3": "DNK",
+    "capital": [
+      "Copenhagen"
+    ]
   },
   {
     "name": {
@@ -3088,7 +3511,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "GRC"
+    "cca3": "GRC",
+    "capital": [
+      "Athens"
+    ]
   },
   {
     "name": {
@@ -3111,7 +3537,10 @@
         "symbol": "Kč"
       }
     },
-    "cca3": "CZE"
+    "cca3": "CZE",
+    "capital": [
+      "Prague"
+    ]
   },
   {
     "name": {
@@ -3138,7 +3567,10 @@
         "symbol": "Nfk"
       }
     },
-    "cca3": "ERI"
+    "cca3": "ERI",
+    "capital": [
+      "Asmara"
+    ]
   },
   {
     "name": {
@@ -3193,7 +3625,10 @@
         "symbol": "R"
       }
     },
-    "cca3": "NAM"
+    "cca3": "NAM",
+    "capital": [
+      "Windhoek"
+    ]
   },
   {
     "name": {
@@ -3212,7 +3647,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "VGB"
+    "cca3": "VGB",
+    "capital": [
+      "Road Town"
+    ]
   },
   {
     "name": {
@@ -3231,7 +3669,10 @@
         "symbol": "﷼"
       }
     },
-    "cca3": "IRN"
+    "cca3": "IRN",
+    "capital": [
+      "Tehran"
+    ]
   },
   {
     "name": {
@@ -3258,7 +3699,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "GNQ"
+    "cca3": "GNQ",
+    "capital": [
+      "Ciudad de la Paz"
+    ]
   },
   {
     "name": {
@@ -3277,7 +3721,10 @@
         "symbol": "UM"
       }
     },
-    "cca3": "MRT"
+    "cca3": "MRT",
+    "capital": [
+      "Nouakchott"
+    ]
   },
   {
     "name": {
@@ -3296,7 +3743,10 @@
         "symbol": ".د.ب"
       }
     },
-    "cca3": "BHR"
+    "cca3": "BHR",
+    "capital": [
+      "Manama"
+    ]
   },
   {
     "name": {
@@ -3315,7 +3765,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "CCK"
+    "cca3": "CCK",
+    "capital": [
+      "West Island"
+    ]
   },
   {
     "name": {
@@ -3334,7 +3787,10 @@
         "symbol": "Br"
       }
     },
-    "cca3": "ETH"
+    "cca3": "ETH",
+    "capital": [
+      "Addis Ababa"
+    ]
   },
   {
     "name": {
@@ -3353,7 +3809,10 @@
         "symbol": "ZK"
       }
     },
-    "cca3": "ZMB"
+    "cca3": "ZMB",
+    "capital": [
+      "Lusaka"
+    ]
   },
   {
     "name": {
@@ -3380,7 +3839,10 @@
         "symbol": "KM"
       }
     },
-    "cca3": "BIH"
+    "cca3": "BIH",
+    "capital": [
+      "Sarajevo"
+    ]
   },
   {
     "name": {
@@ -3399,7 +3861,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "FLK"
+    "cca3": "FLK",
+    "capital": [
+      "Stanley"
+    ]
   },
   {
     "name": {
@@ -3418,7 +3883,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "GRD"
+    "cca3": "GRD",
+    "capital": [
+      "St. George's"
+    ]
   },
   {
     "name": {
@@ -3437,7 +3905,10 @@
         "symbol": "฿"
       }
     },
-    "cca3": "THA"
+    "cca3": "THA",
+    "capital": [
+      "Bangkok"
+    ]
   },
   {
     "name": {
@@ -3456,7 +3927,10 @@
         "symbol": "lei"
       }
     },
-    "cca3": "ROU"
+    "cca3": "ROU",
+    "capital": [
+      "Bucharest"
+    ]
   },
   {
     "name": {
@@ -3475,7 +3949,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "VCT"
+    "cca3": "VCT",
+    "capital": [
+      "Kingstown"
+    ]
   },
   {
     "name": {
@@ -3494,7 +3971,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "LBR"
+    "cca3": "LBR",
+    "capital": [
+      "Monrovia"
+    ]
   },
   {
     "name": {
@@ -3513,7 +3993,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "USA"
+    "cca3": "USA",
+    "capital": [
+      "Washington, D.C."
+    ]
   },
   {
     "name": {
@@ -3532,7 +4015,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "SSD"
+    "cca3": "SSD",
+    "capital": [
+      "Juba"
+    ]
   },
   {
     "name": {
@@ -3548,7 +4034,8 @@
     "currencies": {
 
     },
-    "cca3": "BVT"
+    "cca3": "BVT",
+    "capital": []
   },
   {
     "name": {
@@ -3567,7 +4054,10 @@
         "symbol": "֏"
       }
     },
-    "cca3": "ARM"
+    "cca3": "ARM",
+    "capital": [
+      "Yerevan"
+    ]
   },
   {
     "name": {
@@ -3586,7 +4076,10 @@
         "symbol": "¥"
       }
     },
-    "cca3": "JPN"
+    "cca3": "JPN",
+    "capital": [
+      "Tokyo"
+    ]
   },
   {
     "name": {
@@ -3609,7 +4102,10 @@
         "symbol": "₨"
       }
     },
-    "cca3": "PAK"
+    "cca3": "PAK",
+    "capital": [
+      "Islamabad"
+    ]
   },
   {
     "name": {
@@ -3636,7 +4132,10 @@
         "symbol": "R"
       }
     },
-    "cca3": "SWZ"
+    "cca3": "SWZ",
+    "capital": [
+      "Mbabane"
+    ]
   },
   {
     "name": {
@@ -3655,7 +4154,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "LIE"
+    "cca3": "LIE",
+    "capital": [
+      "Vaduz"
+    ]
   },
   {
     "name": {
@@ -3678,7 +4180,10 @@
         "symbol": "₪"
       }
     },
-    "cca3": "ISR"
+    "cca3": "ISR",
+    "capital": [
+      "Jerusalem"
+    ]
   },
   {
     "name": {
@@ -3701,7 +4206,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "ASM"
+    "cca3": "ASM",
+    "capital": [
+      "Pago Pago"
+    ]
   },
   {
     "name": {
@@ -3724,7 +4232,10 @@
         "symbol": "Rs  රු"
       }
     },
-    "cca3": "LKA"
+    "cca3": "LKA",
+    "capital": [
+      "Sri Jayawardenepura Kotte"
+    ]
   },
   {
     "name": {
@@ -3743,7 +4254,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "SGS"
+    "cca3": "SGS",
+    "capital": [
+      "King Edward Point"
+    ]
   },
   {
     "name": {
@@ -3762,7 +4276,10 @@
         "symbol": "L"
       }
     },
-    "cca3": "ALB"
+    "cca3": "ALB",
+    "capital": [
+      "Tirana"
+    ]
   },
   {
     "name": {
@@ -3781,7 +4298,10 @@
         "symbol": "د.ج"
       }
     },
-    "cca3": "DZA"
+    "cca3": "DZA",
+    "capital": [
+      "Algiers"
+    ]
   },
   {
     "name": {
@@ -3800,7 +4320,10 @@
         "symbol": "₴"
       }
     },
-    "cca3": "UKR"
+    "cca3": "UKR",
+    "capital": [
+      "Kyiv"
+    ]
   },
   {
     "name": {
@@ -3823,7 +4346,10 @@
         "symbol": "£"
       }
     },
-    "cca3": "SHN"
+    "cca3": "SHN",
+    "capital": [
+      "Jamestown"
+    ]
   },
   {
     "name": {
@@ -3839,7 +4365,8 @@
     "currencies": {
 
     },
-    "cca3": "HMD"
+    "cca3": "HMD",
+    "capital": []
   },
   {
     "name": {
@@ -3858,7 +4385,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "SMR"
+    "cca3": "SMR",
+    "capital": [
+      "City of San Marino"
+    ]
   },
   {
     "name": {
@@ -3881,7 +4411,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "CUB"
+    "cca3": "CUB",
+    "capital": [
+      "Havana"
+    ]
   },
   {
     "name": {
@@ -3904,7 +4437,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "NRU"
+    "cca3": "NRU",
+    "capital": [
+      "Yaren"
+    ]
   },
   {
     "name": {
@@ -3923,7 +4459,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "ESP"
+    "cca3": "ESP",
+    "capital": [
+      "Madrid"
+    ]
   },
   {
     "name": {
@@ -3942,7 +4481,10 @@
         "symbol": "د.ك"
       }
     },
-    "cca3": "KWT"
+    "cca3": "KWT",
+    "capital": [
+      "Kuwait City"
+    ]
   },
   {
     "name": {
@@ -3961,7 +4503,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "MSR"
+    "cca3": "MSR",
+    "capital": [
+      "Plymouth"
+    ]
   },
   {
     "name": {
@@ -3988,7 +4533,10 @@
         "symbol": "₨"
       }
     },
-    "cca3": "MUS"
+    "cca3": "MUS",
+    "capital": [
+      "Port Louis"
+    ]
   },
   {
     "name": {
@@ -4007,7 +4555,10 @@
         "symbol": "kr"
       }
     },
-    "cca3": "SWE"
+    "cca3": "SWE",
+    "capital": [
+      "Stockholm"
+    ]
   },
   {
     "name": {
@@ -4026,7 +4577,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "AUS"
+    "cca3": "AUS",
+    "capital": [
+      "Canberra"
+    ]
   },
   {
     "name": {
@@ -4049,7 +4603,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "CMR"
+    "cca3": "CMR",
+    "capital": [
+      "Yaoundé"
+    ]
   },
   {
     "name": {
@@ -4068,7 +4625,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "ECU"
+    "cca3": "ECU",
+    "capital": [
+      "Quito"
+    ]
   },
   {
     "name": {
@@ -4087,7 +4647,10 @@
         "symbol": "ر.ق"
       }
     },
-    "cca3": "QAT"
+    "cca3": "QAT",
+    "capital": [
+      "Doha"
+    ]
   },
   {
     "name": {
@@ -4110,7 +4673,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "MHL"
+    "cca3": "MHL",
+    "capital": [
+      "Majuro"
+    ]
   },
   {
     "name": {
@@ -4129,7 +4695,10 @@
         "symbol": "zł"
       }
     },
-    "cca3": "POL"
+    "cca3": "POL",
+    "capital": [
+      "Warsaw"
+    ]
   },
   {
     "name": {
@@ -4148,7 +4717,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "CYM"
+    "cca3": "CYM",
+    "capital": [
+      "George Town"
+    ]
   },
   {
     "name": {
@@ -4207,7 +4779,12 @@
         "symbol": "R"
       }
     },
-    "cca3": "ZAF"
+    "cca3": "ZAF",
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ]
   },
   {
     "name": {
@@ -4226,7 +4803,10 @@
         "symbol": "₣"
       }
     },
-    "cca3": "WLF"
+    "cca3": "WLF",
+    "capital": [
+      "Mata-Utu"
+    ]
   },
   {
     "name": {
@@ -4249,7 +4829,10 @@
         "symbol": "T"
       }
     },
-    "cca3": "WSM"
+    "cca3": "WSM",
+    "capital": [
+      "Apia"
+    ]
   },
   {
     "name": {
@@ -4268,7 +4851,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "NLD"
+    "cca3": "NLD",
+    "capital": [
+      "Amsterdam"
+    ]
   },
   {
     "name": {
@@ -4303,7 +4889,10 @@
         "symbol": "UM"
       }
     },
-    "cca3": "ESH"
+    "cca3": "ESH",
+    "capital": [
+      "El Aaiún"
+    ]
   },
   {
     "name": {
@@ -4322,7 +4911,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "MNE"
+    "cca3": "MNE",
+    "capital": [
+      "Podgorica"
+    ]
   },
   {
     "name": {
@@ -4345,7 +4937,10 @@
         "symbol": "₹"
       }
     },
-    "cca3": "BTN"
+    "cca3": "BTN",
+    "capital": [
+      "Thimphu"
+    ]
   },
   {
     "name": {
@@ -4368,7 +4963,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "MLT"
+    "cca3": "MLT",
+    "capital": [
+      "Valletta"
+    ]
   },
   {
     "name": {
@@ -4395,7 +4993,10 @@
         "symbol": "Vt"
       }
     },
-    "cca3": "VUT"
+    "cca3": "VUT",
+    "capital": [
+      "Port Vila"
+    ]
   },
   {
     "name": {
@@ -4418,7 +5019,10 @@
         "symbol": "Sh"
       }
     },
-    "cca3": "TZA"
+    "cca3": "TZA",
+    "capital": [
+      "Dodoma"
+    ]
   },
   {
     "name": {
@@ -4445,7 +5049,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "NZL"
+    "cca3": "NZL",
+    "capital": [
+      "Wellington"
+    ]
   },
   {
     "name": {
@@ -4468,7 +5075,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "PLW"
+    "cca3": "PLW",
+    "capital": [
+      "Ngerulmud"
+    ]
   },
   {
     "name": {
@@ -4491,7 +5101,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "PAN"
+    "cca3": "PAN",
+    "capital": [
+      "Panama City"
+    ]
   },
   {
     "name": {
@@ -4518,7 +5131,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "TUV"
+    "cca3": "TUV",
+    "capital": [
+      "Funafuti"
+    ]
   },
   {
     "name": {
@@ -4545,7 +5161,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "FJI"
+    "cca3": "FJI",
+    "capital": [
+      "Suva"
+    ]
   },
   {
     "name": {
@@ -4564,7 +5183,10 @@
         "symbol": "C$"
       }
     },
-    "cca3": "NIC"
+    "cca3": "NIC",
+    "capital": [
+      "Managua"
+    ]
   },
   {
     "name": {
@@ -4587,7 +5209,10 @@
         "symbol": "с"
       }
     },
-    "cca3": "KGZ"
+    "cca3": "KGZ",
+    "capital": [
+      "Bishkek"
+    ]
   },
   {
     "name": {
@@ -4606,7 +5231,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "ATF"
+    "cca3": "ATF",
+    "capital": [
+      "Port-aux-Français"
+    ]
   },
   {
     "name": {
@@ -4625,7 +5253,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "LVA"
+    "cca3": "LVA",
+    "capital": [
+      "Riga"
+    ]
   },
   {
     "name": {
@@ -4644,7 +5275,10 @@
         "symbol": "₾"
       }
     },
-    "cca3": "GEO"
+    "cca3": "GEO",
+    "capital": [
+      "Tbilisi"
+    ]
   },
   {
     "name": {
@@ -4671,7 +5305,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "LUX"
+    "cca3": "LUX",
+    "capital": [
+      "Luxembourg"
+    ]
   },
   {
     "name": {
@@ -4690,7 +5327,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "AUT"
+    "cca3": "AUT",
+    "capital": [
+      "Vienna"
+    ]
   },
   {
     "name": {
@@ -4709,7 +5349,10 @@
         "symbol": "den"
       }
     },
-    "cca3": "MKD"
+    "cca3": "MKD",
+    "capital": [
+      "Skopje"
+    ]
   },
   {
     "name": {
@@ -4728,7 +5371,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "BLM"
+    "cca3": "BLM",
+    "capital": [
+      "Gustavia"
+    ]
   },
   {
     "name": {
@@ -4747,7 +5393,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "CXR"
+    "cca3": "CXR",
+    "capital": [
+      "Flying Fish Cove"
+    ]
   },
   {
     "name": {
@@ -4766,7 +5415,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "SLB"
+    "cca3": "SLB",
+    "capital": [
+      "Honiara"
+    ]
   },
   {
     "name": {
@@ -4785,7 +5437,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "ATG"
+    "cca3": "ATG",
+    "capital": [
+      "Saint John's"
+    ]
   },
   {
     "name": {
@@ -4812,7 +5467,10 @@
         "symbol": "ع.د"
       }
     },
-    "cca3": "IRQ"
+    "cca3": "IRQ",
+    "capital": [
+      "Baghdad"
+    ]
   },
   {
     "name": {
@@ -4831,7 +5489,10 @@
         "symbol": "L"
       }
     },
-    "cca3": "MDA"
+    "cca3": "MDA",
+    "capital": [
+      "Chișinău"
+    ]
   },
   {
     "name": {
@@ -4854,7 +5515,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "NFK"
+    "cca3": "NFK",
+    "capital": [
+      "Kingston"
+    ]
   },
   {
     "name": {
@@ -4881,7 +5545,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "COG"
+    "cca3": "COG",
+    "capital": [
+      "Brazzaville"
+    ]
   },
   {
     "name": {
@@ -4904,7 +5571,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "NIU"
+    "cca3": "NIU",
+    "capital": [
+      "Alofi"
+    ]
   },
   {
     "name": {
@@ -4923,7 +5593,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "LTU"
+    "cca3": "LTU",
+    "capital": [
+      "Vilnius"
+    ]
   },
   {
     "name": {
@@ -4942,7 +5615,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "NER"
+    "cca3": "NER",
+    "capital": [
+      "Niamey"
+    ]
   },
   {
     "name": {
@@ -4961,7 +5637,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "GUY"
+    "cca3": "GUY",
+    "capital": [
+      "Georgetown"
+    ]
   },
   {
     "name": {
@@ -4980,7 +5659,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "BMU"
+    "cca3": "BMU",
+    "capital": [
+      "Hamilton"
+    ]
   },
   {
     "name": {
@@ -4999,7 +5681,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "GAB"
+    "cca3": "GAB",
+    "capital": [
+      "Libreville"
+    ]
   },
   {
     "name": {
@@ -5026,7 +5711,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "COK"
+    "cca3": "COK",
+    "capital": [
+      "Avarua"
+    ]
   },
   {
     "name": {
@@ -5045,7 +5733,10 @@
         "symbol": "Kz"
       }
     },
-    "cca3": "AGO"
+    "cca3": "AGO",
+    "capital": [
+      "Luanda"
+    ]
   },
   {
     "name": {
@@ -5072,7 +5763,10 @@
         "symbol": "kr"
       }
     },
-    "cca3": "NOR"
+    "cca3": "NOR",
+    "capital": [
+      "Oslo"
+    ]
   },
   {
     "name": {
@@ -5091,7 +5785,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "GLP"
+    "cca3": "GLP",
+    "capital": [
+      "Basse-Terre"
+    ]
   },
   {
     "name": {
@@ -5110,7 +5807,10 @@
         "symbol": ".ރ"
       }
     },
-    "cca3": "MDV"
+    "cca3": "MDV",
+    "capital": [
+      "Malé"
+    ]
   },
   {
     "name": {
@@ -5137,7 +5837,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "BEL"
+    "cca3": "BEL",
+    "capital": [
+      "Brussels"
+    ]
   },
   {
     "name": {
@@ -5156,7 +5859,10 @@
         "symbol": "€"
       }
     },
-    "cca3": "HRV"
+    "cca3": "HRV",
+    "capital": [
+      "Zagreb"
+    ]
   },
   {
     "name": {
@@ -5183,7 +5889,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "BLZ"
+    "cca3": "BLZ",
+    "capital": [
+      "Belmopan"
+    ]
   },
   {
     "name": {
@@ -5202,7 +5911,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "KNA"
+    "cca3": "KNA",
+    "capital": [
+      "Basseterre"
+    ]
   },
   {
     "name": {
@@ -5233,7 +5945,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "SGP"
+    "cca3": "SGP",
+    "capital": [
+      "Singapore"
+    ]
   },
   {
     "name": {
@@ -5260,7 +5975,10 @@
         "symbol": "R"
       }
     },
-    "cca3": "LSO"
+    "cca3": "LSO",
+    "capital": [
+      "Maseru"
+    ]
   },
   {
     "name": {
@@ -5279,7 +5997,10 @@
         "symbol": "$"
       }
     },
-    "cca3": "URY"
+    "cca3": "URY",
+    "capital": [
+      "Montevideo"
+    ]
   },
   {
     "name": {
@@ -5298,7 +6019,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "BFA"
+    "cca3": "BFA",
+    "capital": [
+      "Ouagadougou"
+    ]
   },
   {
     "name": {
@@ -5325,7 +6049,10 @@
         "symbol": "₹"
       }
     },
-    "cca3": "IND"
+    "cca3": "IND",
+    "capital": [
+      "New Delhi"
+    ]
   },
   {
     "name": {
@@ -5348,7 +6075,10 @@
         "symbol": "₱"
       }
     },
-    "cca3": "PHL"
+    "cca3": "PHL",
+    "capital": [
+      "Manila"
+    ]
   },
   {
     "name": {
@@ -5371,7 +6101,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "CAF"
+    "cca3": "CAF",
+    "capital": [
+      "Bangui"
+    ]
   },
   {
     "name": {
@@ -5394,7 +6127,10 @@
         "symbol": "ج.س"
       }
     },
-    "cca3": "SDN"
+    "cca3": "SDN",
+    "capital": [
+      "Khartoum"
+    ]
   },
   {
     "name": {
@@ -5417,7 +6153,10 @@
         "symbol": "Fr"
       }
     },
-    "cca3": "GNB"
+    "cca3": "GNB",
+    "capital": [
+      "Bissau"
+    ]
   },
   {
     "name": {
@@ -5444,7 +6183,10 @@
         "symbol": "K"
       }
     },
-    "cca3": "PNG"
+    "cca3": "PNG",
+    "capital": [
+      "Port Moresby"
+    ]
   },
   {
     "name": {
@@ -5463,6 +6205,9 @@
         "symbol": "$"
       }
     },
-    "cca3": "UMI"
+    "cca3": "UMI",
+    "capital": [
+      "Washington DC"
+    ]
   }
 ]

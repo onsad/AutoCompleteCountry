@@ -1,4 +1,5 @@
-﻿public class Rootobject
+﻿
+public class Rootobject
 {
     public Class1[] Property1 { get; set; }
 }
@@ -8,6 +9,7 @@ public class Class1
     public Name name { get; set; }
     public Currencies currencies { get; set; }
     public string cca3 { get; set; }
+    public string[] capital { get; set; }
 }
 
 public class Name

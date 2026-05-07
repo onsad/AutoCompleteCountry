@@ -39,7 +39,7 @@ namespace AutoCompleteCountry.Service
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
-                string query = "SELECT CountryName, CountryCode, Currency FROM Country WHERE CountryId = @id";
+                string query = "SELECT CountryName, CountryCode, Currency, CapitalCity FROM Country WHERE CountryId = @id";
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@id", id);
@@ -51,7 +51,8 @@ namespace AutoCompleteCountry.Service
                             {
                                 Name = reader.GetString(0),
                                 Code = reader.GetString(1),
-                                Currency = reader.GetString(2)
+                                Currency = reader.GetString(2),
+                                CapitalCity = reader.GetString(3)
                             };
                         }
                     }

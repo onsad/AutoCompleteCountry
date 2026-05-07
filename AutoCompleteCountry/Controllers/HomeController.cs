@@ -27,7 +27,8 @@ namespace AutoCompleteCountry.Controllers
             {
                 Name = country.Name,
                 CountryCode = country.Code,
-                Currency = country.Currency
+                Currency = country.Currency,
+                CapitalCity = country.CapitalCity
             };
             return View("Index", model);
         }

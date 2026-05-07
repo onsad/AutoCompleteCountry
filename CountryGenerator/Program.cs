@@ -27,7 +27,7 @@ foreach (var country in countries)
         }
     }
 
-    insertSql.AppendLine($"  ( '{country.name.common}', '{country.cca3}', '{currency}' ),");
+    insertSql.AppendLine($"  ( '{country.name.common}', '{country.cca3}', '{currency}', '{country.capital.FirstOrDefault()}' ),");
 }
 
 
