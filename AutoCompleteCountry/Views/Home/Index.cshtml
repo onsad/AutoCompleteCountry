@@ -18,6 +18,7 @@
 </div>
 
 <div class="card p-3 w-50">
+    @Html.ValidationSummary(true)
     <table class="table mb-0">
         <tbody>
             <tr>
@@ -50,6 +51,7 @@
                 minLength: 2,
                 delay: 250,
                 source: function (request, response) {
+                    $("#CountryId").val("0");
                     $.ajax({
                         url: '@Url.Action("Search", "Home")',
                         type: "GET",

@@ -13,24 +13,32 @@ namespace AutoCompleteCountry.Controllers
         }
 
         [HttpGet]
-        public JsonResult Search(string searchedCountry)
+        public async Task<JsonResult> Search(string searchedCountry)
         {
-            var countries = countryService.GetCountries(searchedCountry);
+            var countries = await countryService.GetCountries(searchedCountry);
             return Json(countries);
         }
 
         [HttpGet]
-        public IActionResult SearchedCountry(int countryId)
+        public async Task<IActionResult> SearchedCountry(int countryId)
         {
-            var country = countryService.GetCountryById(countryId);
-            var model = new CountryViewModel
+            if (countryId == 0)
             {
-                Name = country.Name,
-                CountryCode = country.Code,
-                Currency = country.Currency,
-                CapitalCity = country.CapitalCity
-            };
-            return View("Index", model);
+                ModelState.AddModelError(string.Empty, "Please select a country from the list.");
+                return View("Index", new CountryViewModel());
+            }
+            else
+            {
+                var country = await countryService.GetCountryById(countryId);
+                var model = new CountryViewModel
+                {
+                    Name = country.Name,
+                    CountryCode = country.Code,
+                    Currency = country.Currency,
+                    CapitalCity = country.CapitalCity
+                };
+                return View("Index", model);
+            }
         }
 
         public IActionResult Privacy()

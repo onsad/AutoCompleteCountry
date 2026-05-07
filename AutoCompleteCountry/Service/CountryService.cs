@@ -12,19 +12,19 @@ namespace AutoCompleteCountry.Service
             connectionString = config.GetConnectionString("DBConnection") ?? throw new InvalidOperationException("Connection string 'DBConnection not found.");
         }
 
-        public List<Country> GetCountries(string searchedCountry)
+        public async Task<List<Country>> GetCountries(string searchedCountry)
         {
             List<Country> countries = new List<Country>();
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                connection.Open();
+                await connection.OpenAsync();
                 string query = "SELECT CountryId, CountryName FROM Country WHERE CountryName LIKE @searchedCountry + '%'";
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@searchedCountry", searchedCountry);
-                    using (SqlDataReader reader = command.ExecuteReader())
+                    using (SqlDataReader reader = await command.ExecuteReaderAsync())
                     {
-                        while (reader.Read())
+                        while (await reader.ReadAsync())
                         {
                             countries.Add(new Country() { Id = reader.GetInt32(0), Name = reader.GetString(1) });
                         }
@@ -34,18 +34,18 @@ namespace AutoCompleteCountry.Service
             return countries;
         }
 
-        public Country GetCountryById(int id)
+        public async Task<Country> GetCountryById(int id)
         {
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                connection.Open();
+                await connection.OpenAsync();
                 string query = "SELECT CountryName, CountryCode, Currency, CapitalCity FROM Country WHERE CountryId = @id";
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@id", id);
-                    using (SqlDataReader reader = command.ExecuteReader())
+                    using (SqlDataReader reader = await command.ExecuteReaderAsync())
                     {
-                        if (reader.Read())
+                        if (await reader.ReadAsync())
                         {
                             return new Country
                             {
